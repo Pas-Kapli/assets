@@ -1,0 +1,18 @@
+-i ../Carabus_no_out.fas.unique -b 10 -e 2000 -m 20 -z 100 Threshold: 1 1.5
+514
+Round: 0 Block: 4: 2
+Round: 0 Block: 7: 13
+Round: 0 Block: 1: 19
+Round: 0 Block: 9: 13
+Round: 0 Block: 8: 23
+Round: 0 Block: 5: 16
+Round: 0 Block: 2: 10
+Round: 0 Block: 6: 7
+Round: 0 Block: 3: 1
+Round: 0 Block: 10: 8
+Round: 1 Block: 2: 22
+Round: 1 Block: 4: 24
+Round: 1 Block: 1: 23
+Round: 1 Block: 3: 25
+Merging Using BC
+Writing Output

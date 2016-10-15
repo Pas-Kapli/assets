@@ -1,0 +1,69 @@
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.1.17 released by Alexandros Stamatakis on February 5 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 279 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 6.48%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 279
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-SSE3 -s BR_cob_57ind_mafft.fasta.reduced -m GTRGAMMA -n Branchiomma -p 842 -T 2 -o BR_076,BR_018 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.248 0.307 0.126 0.320 
+
+Inference[0]: Time 4.514067 GAMMA-based likelihood -3884.501241, best rearrangement setting 5
+alpha[0]: 0.268531 rates[0] ac ag at cg ct gt: 0.850510 5.085720 0.538583 0.367800 2.467451 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -3880.791065 tree written to file /home/lkaplipa/Delimitation_workshop/Dataset_SpDel_Norway2016/Branchiomma_exercise/ptp/RAxML_result.Branchiomma
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -3880.791065 .... 
+
+Final GAMMA-based Score of best tree -3880.791065
+
+Program execution info written to /home/lkaplipa/Delimitation_workshop/Dataset_SpDel_Norway2016/Branchiomma_exercise/ptp/RAxML_info.Branchiomma
+Best-scoring ML tree written to: /home/lkaplipa/Delimitation_workshop/Dataset_SpDel_Norway2016/Branchiomma_exercise/ptp/RAxML_bestTree.Branchiomma
+
+Overall execution time: 7.316094 secs or 0.002032 hours or 0.000085 days
+

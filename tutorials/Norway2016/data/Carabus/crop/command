@@ -1,0 +1,1 @@
+../../../CROP/CROPLinux -i Carabus_no_out.fas -o Carabus_crop -s -z 100 -b 100

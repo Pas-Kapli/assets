@@ -1,0 +1,62 @@
+
+
+IMPORTANT WARNING: Sequences BR_001 and BR_002 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_001 and BR_003 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_006 and BR_008 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_007 and BR_012 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_015 and BR_022 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_015 and BR_024 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_018 and BR_019 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_018 and BR_020 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_060 and BR_061 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_070 and BR_071 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_070 and BR_078 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_080 and BR_082 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_102 and BR_103 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_102 and BR_104 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_102 and BR_105 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_095 and BR_096 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_095 and BR_106 are exactly identical
+
+IMPORTANT WARNING
+Found 17 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file BR_cob_57ind_mafft.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
