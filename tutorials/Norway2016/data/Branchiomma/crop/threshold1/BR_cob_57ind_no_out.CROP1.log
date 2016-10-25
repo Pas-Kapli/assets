@@ -1,0 +1,5 @@
+-i ../BR_cob_57ind_no_outgr.fasta.unique -b 1 -e 2000 -m 20 -z 50 Threshold: 0.2 0.5
+38
+Round: 0 Block: 1: 19
+Merging Using BC
+Writing Output
