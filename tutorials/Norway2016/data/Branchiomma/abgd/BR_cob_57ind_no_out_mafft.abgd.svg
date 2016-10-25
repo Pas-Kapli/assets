@@ -10,34 +10,106 @@ width="765" height="575" >
 <text x="540" y="550" style="font-family: monospace; font-size: 10px;">prior intraspecific divergence (P)</text>
 <line x1="37" y1="500"  x2="40" y2="500" style=" stroke: black;"/>
 <text x="17" y="495" style="font-family: monospace; font-size: 10px;">0</text>
+<line x1="37" y1="484"  x2="40" y2="484" style=" stroke: black;"/>
+<line x1="37" y1="469"  x2="40" y2="469" style=" stroke: black;"/>
+<text x="17" y="464" style="font-family: monospace; font-size: 10px;">2</text>
 <line x1="37" y1="454"  x2="40" y2="454" style=" stroke: black;"/>
-<text x="17" y="449" style="font-family: monospace; font-size: 10px;">1</text>
+<line x1="37" y1="438"  x2="40" y2="438" style=" stroke: black;"/>
+<text x="17" y="433" style="font-family: monospace; font-size: 10px;">4</text>
+<line x1="37" y1="423"  x2="40" y2="423" style=" stroke: black;"/>
 <line x1="37" y1="408"  x2="40" y2="408" style=" stroke: black;"/>
-<text x="17" y="403" style="font-family: monospace; font-size: 10px;">2</text>
+<text x="17" y="403" style="font-family: monospace; font-size: 10px;">6</text>
+<line x1="37" y1="392"  x2="40" y2="392" style=" stroke: black;"/>
+<line x1="37" y1="377"  x2="40" y2="377" style=" stroke: black;"/>
+<text x="17" y="372" style="font-family: monospace; font-size: 10px;">8</text>
 <line x1="37" y1="362"  x2="40" y2="362" style=" stroke: black;"/>
-<text x="17" y="357" style="font-family: monospace; font-size: 10px;">3</text>
+<line x1="37" y1="346"  x2="40" y2="346" style=" stroke: black;"/>
+<text x="17" y="341" style="font-family: monospace; font-size: 10px;">10</text>
+<line x1="37" y1="331"  x2="40" y2="331" style=" stroke: black;"/>
 <line x1="37" y1="316"  x2="40" y2="316" style=" stroke: black;"/>
-<text x="17" y="311" style="font-family: monospace; font-size: 10px;">4</text>
+<text x="17" y="311" style="font-family: monospace; font-size: 10px;">12</text>
+<line x1="37" y1="300"  x2="40" y2="300" style=" stroke: black;"/>
+<line x1="37" y1="285"  x2="40" y2="285" style=" stroke: black;"/>
+<text x="17" y="280" style="font-family: monospace; font-size: 10px;">14</text>
 <line x1="37" y1="270"  x2="40" y2="270" style=" stroke: black;"/>
-<text x="17" y="265" style="font-family: monospace; font-size: 10px;">5</text>
+<line x1="37" y1="254"  x2="40" y2="254" style=" stroke: black;"/>
+<text x="17" y="249" style="font-family: monospace; font-size: 10px;">16</text>
+<line x1="37" y1="239"  x2="40" y2="239" style=" stroke: black;"/>
 <line x1="37" y1="224"  x2="40" y2="224" style=" stroke: black;"/>
-<text x="17" y="219" style="font-family: monospace; font-size: 10px;">6</text>
+<text x="17" y="219" style="font-family: monospace; font-size: 10px;">18</text>
+<line x1="37" y1="208"  x2="40" y2="208" style=" stroke: black;"/>
+<line x1="37" y1="193"  x2="40" y2="193" style=" stroke: black;"/>
+<text x="17" y="188" style="font-family: monospace; font-size: 10px;">20</text>
 <line x1="37" y1="178"  x2="40" y2="178" style=" stroke: black;"/>
-<text x="17" y="173" style="font-family: monospace; font-size: 10px;">7</text>
+<line x1="37" y1="162"  x2="40" y2="162" style=" stroke: black;"/>
+<text x="17" y="157" style="font-family: monospace; font-size: 10px;">22</text>
+<line x1="37" y1="147"  x2="40" y2="147" style=" stroke: black;"/>
 <line x1="37" y1="132"  x2="40" y2="132" style=" stroke: black;"/>
-<text x="17" y="127" style="font-family: monospace; font-size: 10px;">8</text>
+<text x="17" y="127" style="font-family: monospace; font-size: 10px;">24</text>
+<line x1="37" y1="116"  x2="40" y2="116" style=" stroke: black;"/>
+<line x1="37" y1="101"  x2="40" y2="101" style=" stroke: black;"/>
+<text x="17" y="96" style="font-family: monospace; font-size: 10px;">26</text>
 <line x1="37" y1="86"  x2="40" y2="86" style=" stroke: black;"/>
-<text x="17" y="81" style="font-family: monospace; font-size: 10px;">9</text>
+<line x1="37" y1="70"  x2="40" y2="70" style=" stroke: black;"/>
+<text x="17" y="65" style="font-family: monospace; font-size: 10px;">28</text>
+<line x1="37" y1="55"  x2="40" y2="55" style=" stroke: black;"/>
 <line x1="37" y1="40"  x2="40" y2="40" style=" stroke: black;"/>
-<text x="17" y="35" style="font-family: monospace; font-size: 10px;">10</text>
-<line x1="-2147483648" y1="500"  x2="-2147483648" y2="503" style=" stroke: black;"/>
+<text x="17" y="35" style="font-family: monospace; font-size: 10px;">30</text>
+<line x1="40" y1="500"  x2="40" y2="503" style=" stroke: black;"/>
+<line x1="174" y1="500"  x2="174" y2="503" style=" stroke: black;"/>
+<line x1="253" y1="500"  x2="253" y2="503" style=" stroke: black;"/>
+<line x1="309" y1="500"  x2="309" y2="503" style=" stroke: black;"/>
+<line x1="352" y1="500"  x2="352" y2="503" style=" stroke: black;"/>
+<line x1="387" y1="500"  x2="387" y2="503" style=" stroke: black;"/>
+<line x1="417" y1="500"  x2="417" y2="503" style=" stroke: black;"/>
+<line x1="443" y1="500"  x2="443" y2="503" style=" stroke: black;"/>
+<line x1="466" y1="500"  x2="466" y2="503" style=" stroke: black;"/>
+<line x1="486" y1="500"  x2="486" y2="503" style=" stroke: black;"/>
+<line x1="621" y1="500"  x2="621" y2="503" style=" stroke: black;"/>
+<line x1="700" y1="500"  x2="700" y2="503" style=" stroke: black;"/>
 <rect x="640" y="20" width="5" height="5" fill= "#D82424" />
 <text x="648" y="25" style="font-family: monospace; font-size: 10px;">Recursive Partition</text>
 <rect x="640" y="40" width="5" height="5" fill= "#EBE448" />
 <text x="648" y="45" style="font-family: monospace; font-size: 10px;">Initial Partition</text>
-<rect x="-2147483648" y="454" width="5" height="5" fill= "#D82424" />
-<line x1="-2147483648" y1="500"  x2="-2147483648" y2="505" style=" stroke: black;"/>
-<text x="2147483643" y="505" transform="rotate(90,2147483643,505)" style="font-family: monospace; font-size: 10px;">0.0010</text>
-<rect x="-2147483648" y="500" width="5" height="5" fill= "#EBE448" />
+<rect x="40" y="147" width="5" height="5" fill= "#D82424" />
+<line x1="40" y1="500"  x2="40" y2="505" style=" stroke: black;"/>
+<text x="35" y="505" transform="rotate(90,35,505)" style="font-family: monospace; font-size: 10px;">0.0010</text>
+<rect x="40" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="113" y="147" width="5" height="5" fill= "#D82424" />
+<line x1="113" y1="500"  x2="113" y2="505" style=" stroke: black;"/>
+<text x="108" y="505" transform="rotate(90,108,505)" style="font-family: monospace; font-size: 10px;">0.0015</text>
+<rect x="113" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="186" y="147" width="5" height="5" fill= "#D82424" />
+<line x1="186" y1="500"  x2="186" y2="505" style=" stroke: black;"/>
+<text x="181" y="505" transform="rotate(90,181,505)" style="font-family: monospace; font-size: 10px;">0.0021</text>
+<rect x="186" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="260" y="239" width="5" height="5" fill= "#D82424" />
+<line x1="260" y1="500"  x2="260" y2="505" style=" stroke: black;"/>
+<text x="255" y="505" transform="rotate(90,255,505)" style="font-family: monospace; font-size: 10px;">0.0031</text>
+<rect x="260" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="333" y="239" width="5" height="5" fill= "#D82424" />
+<line x1="333" y1="500"  x2="333" y2="505" style=" stroke: black;"/>
+<text x="328" y="505" transform="rotate(90,328,505)" style="font-family: monospace; font-size: 10px;">0.0045</text>
+<rect x="333" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="406" y="285" width="5" height="5" fill= "#D82424" />
+<line x1="406" y1="500"  x2="406" y2="505" style=" stroke: black;"/>
+<text x="401" y="505" transform="rotate(90,401,505)" style="font-family: monospace; font-size: 10px;">0.0066</text>
+<rect x="406" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="479" y="316" width="5" height="5" fill= "#D82424" />
+<line x1="479" y1="500"  x2="479" y2="505" style=" stroke: black;"/>
+<text x="474" y="505" transform="rotate(90,474,505)" style="font-family: monospace; font-size: 10px;">0.0097</text>
+<rect x="479" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="553" y="331" width="5" height="5" fill= "#D82424" />
+<line x1="553" y1="500"  x2="553" y2="505" style=" stroke: black;"/>
+<text x="548" y="505" transform="rotate(90,548,505)" style="font-family: monospace; font-size: 10px;">0.0141</text>
+<rect x="553" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="626" y="331" width="5" height="5" fill= "#D82424" />
+<line x1="626" y1="500"  x2="626" y2="505" style=" stroke: black;"/>
+<text x="621" y="505" transform="rotate(90,621,505)" style="font-family: monospace; font-size: 10px;">0.0206</text>
+<rect x="626" y="346" width="5" height="5" fill= "#EBE448" />
+<rect x="700" y="346" width="5" height="5" fill= "#D82424" />
+<line x1="700" y1="500"  x2="700" y2="505" style=" stroke: black;"/>
+<text x="695" y="505" transform="rotate(90,695,505)" style="font-family: monospace; font-size: 10px;">0.0300</text>
+<rect x="700" y="346" width="5" height="5" fill= "#EBE448" />
 </g>
 </svg>
