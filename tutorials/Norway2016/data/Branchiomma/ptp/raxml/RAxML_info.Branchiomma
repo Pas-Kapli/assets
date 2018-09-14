@@ -1,10 +1,68 @@
 
 
+IMPORTANT WARNING: Sequences BR_001 and BR_002 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_001 and BR_003 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_006 and BR_008 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_007 and BR_012 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_015 and BR_022 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_015 and BR_024 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_018 and BR_019 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_018 and BR_020 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_060 and BR_061 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_070 and BR_071 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_070 and BR_078 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_080 and BR_082 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_102 and BR_103 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_102 and BR_104 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_102 and BR_105 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_095 and BR_096 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BR_095 and BR_106 are exactly identical
+
+IMPORTANT WARNING
+Found 17 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file BR_cob_57ind_mafft.fasta.reduced
+
+
 Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
 
 
 
-This is RAxML version 8.1.17 released by Alexandros Stamatakis on February 5 2015.
+This is RAxML version 8.2.10 released by Alexandros Stamatakis on March 2017.
 
 With greatly appreciated code contributions by:
 Andre Aberer      (HITS)
@@ -12,13 +70,16 @@ Simon Berger      (HITS)
 Alexey Kozlov     (HITS)
 Kassian Kobert    (HITS)
 David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
 Nick Pattengale   (Sandia)
 Wayne Pfeiffer    (SDSC)
 Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
 
 Alignment has 279 distinct alignment patterns
 
-Proportion of gaps and completely undetermined characters in this alignment: 6.48%
+Proportion of gaps and completely undetermined characters in this alignment: 5.88%
 
 RAxML rapid hill-climbing mode
 
@@ -28,7 +89,7 @@ Using 1 distinct models/data partitions with joint branch length optimization
 Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
 
 All free model parameters will be estimated by RAxML
-GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
 
 GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
 
@@ -43,27 +104,27 @@ Substitution Matrix: GTR
 
 RAxML was called as follows:
 
-raxmlHPC-PTHREADS-SSE3 -s BR_cob_57ind_mafft.fasta.reduced -m GTRGAMMA -n Branchiomma -p 842 -T 2 -o BR_076,BR_018 
+raxmlHPC-PTHREADS-SSE3 -s BR_cob_57ind_mafft.fasta -m GTRGAMMA -n Branchiomma -p 23748 -T 2 -o BR_076,BR_018,BR_019,BR_020 
 
 
 Partition: 0 with name: No Name Provided
-Base frequencies: 0.248 0.307 0.126 0.320 
+Base frequencies: 0.249 0.304 0.127 0.320 
 
-Inference[0]: Time 4.514067 GAMMA-based likelihood -3884.501241, best rearrangement setting 5
-alpha[0]: 0.268531 rates[0] ac ag at cg ct gt: 0.850510 5.085720 0.538583 0.367800 2.467451 1.000000 
+Inference[0]: Time 4.134725 GAMMA-based likelihood -3880.026157, best rearrangement setting 10
+alpha[0]: 0.282344 rates[0] ac ag at cg ct gt: 2.877738 13.125673 2.230295 1.253712 7.609082 1.000000 
 
 
 Conducting final model optimizations on all 1 trees under GAMMA-based models ....
 
-Inference[0] final GAMMA-based Likelihood: -3880.791065 tree written to file /home/lkaplipa/Delimitation_workshop/Dataset_SpDel_Norway2016/Branchiomma_exercise/ptp/RAxML_result.Branchiomma
+Inference[0] final GAMMA-based Likelihood: -3879.962689 tree written to file /home/kaplipa/EXERCISES_TMP_FORBIO/MPTP/RAxML_result.Branchiomma
 
 
-Starting final GAMMA-based thorough Optimization on tree 0 likelihood -3880.791065 .... 
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -3879.962689 .... 
 
-Final GAMMA-based Score of best tree -3880.791065
+Final GAMMA-based Score of best tree -3879.962686
 
-Program execution info written to /home/lkaplipa/Delimitation_workshop/Dataset_SpDel_Norway2016/Branchiomma_exercise/ptp/RAxML_info.Branchiomma
-Best-scoring ML tree written to: /home/lkaplipa/Delimitation_workshop/Dataset_SpDel_Norway2016/Branchiomma_exercise/ptp/RAxML_bestTree.Branchiomma
+Program execution info written to /home/kaplipa/EXERCISES_TMP_FORBIO/MPTP/RAxML_info.Branchiomma
+Best-scoring ML tree written to: /home/kaplipa/EXERCISES_TMP_FORBIO/MPTP/RAxML_bestTree.Branchiomma
 
-Overall execution time: 7.316094 secs or 0.002032 hours or 0.000085 days
+Overall execution time: 6.341790 secs or 0.001762 hours or 0.000073 days
 

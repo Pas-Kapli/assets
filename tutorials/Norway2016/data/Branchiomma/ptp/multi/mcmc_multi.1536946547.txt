@@ -1,4 +1,4 @@
-Command: mptp --ml --multi --tree_file ../raxml/RAxML_bestTree.Branchiomma --output_file Branchiomma_mptp_multi --outgroup BR_076,BR_018,BR_019,BR_020 --outgroup_crop --minbr 0.0022448990 
+Command: mptp --tree_file ../raxml/RAxML_bestTree.Branchiomma --minbr 0.0022448990 --mcmc 10000000 --mcmc_log --mcmc_sample 50000 --multi --mcmc_runs 2 --output_file mcmc_multi --outgroup BR_076,BR_018,BR_019,BR_020 --outgroup_crop 
 Number of edges greater than minimum branch length: 45 / 104
 Null-model score: 71.451735
 Best score for multi coalescent rate: 116.740892
