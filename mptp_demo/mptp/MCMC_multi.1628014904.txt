@@ -1,0 +1,92 @@
+Command: mptp --mcmc 1000000 --mcmc_sample 1000 --mcmc_log 1000 --mcmc_runs 2 --multi --minbr 0.0005270000 --tree_file ../RAxML/Gallotia_align.fasta.raxml.bestTree --output_file MCMC_multi 
+Number of edges greater than minimum branch length: 97 / 128
+Null-model score: 288.688182
+Best score for multi coalescent rate: 433.009373
+Number of delimited species: 11
+
+Species 1:
+Psammodromus_blanci
+
+Species 2:
+Psammodromus_algirus_3
+Psammodromus_algirus_2
+Psammodromus_algirus_1
+Psammodromus_algirus_10
+Psammodromus_algirus_6
+Psammodromus_algirus_9
+Psammodromus_algirus_8
+Psammodromus_algirus_7
+Psammodromus_algirus_4
+Psammodromus_algirus_5
+
+Species 3:
+Gallotia_stehlini_7
+Gallotia_stehlini_5
+Gallotia_stehlini_1
+Gallotia_stehlini_3
+Gallotia_stehlini_4
+Gallotia_stehlini_2
+Gallotia_stehlini_6
+
+Species 4:
+Gallotia_caesaris_3
+Gallotia_caesaris_1
+Gallotia_caesaris_5
+Gallotia_caesaris_4
+Gallotia_caesaris_2
+Gallotia_caesaris_6
+Gallotia_caesaris_12
+Gallotia_caesaris_9
+Gallotia_caesaris_10
+Gallotia_caesaris_11
+Gallotia_caesaris_8
+Gallotia_caesaris_7
+
+Species 5:
+Gallotia_galloti_3
+Gallotia_galloti_1
+Gallotia_galloti_9
+Gallotia_galloti_4
+Gallotia_galloti_7
+Gallotia_galloti_8
+Gallotia_galloti_6
+Gallotia_galloti_2
+Gallotia_galloti_5
+Gallotia_galloti_13
+Gallotia_galloti_12
+Gallotia_galloti_11
+Gallotia_galloti_10
+
+Species 6:
+Gallotia_galloti_16
+Gallotia_galloti_19
+Gallotia_galloti_14
+Gallotia_galloti_15
+Gallotia_galloti_18
+Gallotia_galloti_17
+
+Species 7:
+Gallotia_simonyi_2
+Gallotia_simonyi_1
+Gallotia_gomerana_1
+Gallotia_gomerana_2
+
+Species 8:
+Gallotia_intermedia_2
+Gallotia_intermedia_1
+
+Species 9:
+Gallotia_atlantica_7
+Gallotia_atlantica_8
+Gallotia_atlantica_9
+
+Species 10:
+Gallotia_atlantica_2
+Gallotia_atlantica_1
+Gallotia_atlantica_3
+Gallotia_atlantica_4
+Gallotia_atlantica_6
+Gallotia_atlantica_5
+
+Species 11:
+Lacerta_lepida

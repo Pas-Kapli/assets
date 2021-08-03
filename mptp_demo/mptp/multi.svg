@@ -1,0 +1,388 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1350" style="border: 1px solid #cccccc;">
+<line x1="20.000000" y1="10.000000" x2="192.800000" y2="10.000000" stroke="#31a354" stroke-width="3.000000" />
+<text x="197.800000" y="16.000000" font-size="12" font-family="Arial;">0.0615487</text>
+<line x1="1120.491130" y1="30.000000" x2="1748.000000" y2="30.000000" stroke="#31a354" stroke-width="3.000000" />
+<text x="1753.000000" y="34.000000" font-size="12" font-family="Arial;">Psammodromus_blanci</text>
+<line x1="1510.345148" y1="50.000000" x2="1537.583832" y2="50.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1542.583832" y="54.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_3</text>
+<line x1="1539.273967" y1="70.000000" x2="1552.727664" y2="70.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1557.727664" y="74.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_2</text>
+<line x1="1539.273967" y1="90.000000" x2="1603.296947" y2="90.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1608.296947" y="94.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_1</text>
+<line x1="1539.273967" y1="70.000000" x2="1539.273967" y2="90.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1539.273967" cy="80.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1510.345148" y1="80.000000" x2="1539.273967" y2="80.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1510.345148" y1="50.000000" x2="1510.345148" y2="80.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1510.345148" cy="65.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1431.922331" y1="65.000000" x2="1510.345148" y2="65.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1539.492954" y1="110.000000" x2="1539.495762" y2="110.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1544.495762" y="114.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_10</text>
+<line x1="1541.183089" y1="130.000000" x2="1544.574589" y2="130.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1549.574589" y="134.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_6</text>
+<line x1="1541.185897" y1="150.000000" x2="1542.853571" y2="150.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1547.853571" y="154.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_9</text>
+<line x1="1541.185897" y1="170.000000" x2="1556.801395" y2="170.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1561.801395" y="174.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_8</text>
+<line x1="1541.185897" y1="150.000000" x2="1541.185897" y2="170.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1541.185897" cy="160.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1541.183089" y1="160.000000" x2="1541.185897" y2="160.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1541.183089" y1="130.000000" x2="1541.183089" y2="160.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1541.183089" cy="145.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1539.492954" y1="145.000000" x2="1541.183089" y2="145.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1539.492954" y1="110.000000" x2="1539.492954" y2="145.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1539.492954" cy="127.500000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1499.171167" y1="127.500000" x2="1539.492954" y2="127.500000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1536.814568" y1="190.000000" x2="1558.634714" y2="190.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1563.634714" y="194.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_7</text>
+<line x1="1544.072041" y1="210.000000" x2="1565.998872" y2="210.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1570.998872" y="214.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_4</text>
+<line x1="1544.072041" y1="230.000000" x2="1571.667281" y2="230.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1576.667281" y="234.000000" font-size="12" font-family="Arial;">Psammodromus_algirus_5</text>
+<line x1="1544.072041" y1="210.000000" x2="1544.072041" y2="230.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1544.072041" cy="220.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1536.814568" y1="220.000000" x2="1544.072041" y2="220.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1536.814568" y1="190.000000" x2="1536.814568" y2="220.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1536.814568" cy="205.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1499.171167" y1="205.000000" x2="1536.814568" y2="205.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1499.171167" y1="127.500000" x2="1499.171167" y2="205.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1499.171167" cy="166.250000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1431.922331" y1="166.250000" x2="1499.171167" y2="166.250000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1431.922331" y1="65.000000" x2="1431.922331" y2="166.250000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1431.922331" cy="115.625000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1120.491130" y1="115.625000" x2="1431.922331" y2="115.625000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1120.491130" y1="30.000000" x2="1120.491130" y2="115.625000" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="1120.491130" cy="72.812500" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="879.256673" y1="72.812500" x2="1120.491130" y2="72.812500" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1354.437231" y1="250.000000" x2="1356.090868" y2="250.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1361.090868" y="254.000000" font-size="12" font-family="Arial;">Gallotia_stehlini_7</text>
+<line x1="1354.437231" y1="270.000000" x2="1356.099290" y2="270.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1361.099290" y="274.000000" font-size="12" font-family="Arial;">Gallotia_stehlini_5</text>
+<line x1="1354.437231" y1="250.000000" x2="1354.437231" y2="270.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1354.437231" cy="260.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1352.533724" y1="260.000000" x2="1354.437231" y2="260.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1355.644470" y1="290.000000" x2="1367.475414" y2="290.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1372.475414" y="294.000000" font-size="12" font-family="Arial;">Gallotia_stehlini_1</text>
+<line x1="1355.644470" y1="310.000000" x2="1358.946129" y2="310.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1363.946129" y="314.000000" font-size="12" font-family="Arial;">Gallotia_stehlini_3</text>
+<line x1="1355.644470" y1="290.000000" x2="1355.644470" y2="310.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1355.644470" cy="300.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1355.641663" y1="300.000000" x2="1355.644470" y2="300.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1355.644470" y1="330.000000" x2="1355.647278" y2="330.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1360.647278" y="334.000000" font-size="12" font-family="Arial;">Gallotia_stehlini_4</text>
+<line x1="1355.644470" y1="350.000000" x2="1358.962974" y2="350.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1363.962974" y="354.000000" font-size="12" font-family="Arial;">Gallotia_stehlini_2</text>
+<line x1="1355.644470" y1="330.000000" x2="1355.644470" y2="350.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1355.644470" cy="340.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1355.641663" y1="340.000000" x2="1355.644470" y2="340.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1355.641663" y1="300.000000" x2="1355.641663" y2="340.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1355.641663" cy="320.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1355.638855" y1="320.000000" x2="1355.641663" y2="320.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1355.638855" y1="370.000000" x2="1360.619418" y2="370.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1365.619418" y="374.000000" font-size="12" font-family="Arial;">Gallotia_stehlini_6</text>
+<line x1="1355.638855" y1="320.000000" x2="1355.638855" y2="370.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1355.638855" cy="345.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1352.533724" y1="345.000000" x2="1355.638855" y2="345.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1352.533724" y1="260.000000" x2="1352.533724" y2="345.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1352.533724" cy="302.500000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1041.961627" y1="302.500000" x2="1352.533724" y2="302.500000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1356.478307" y1="390.000000" x2="1359.673280" y2="390.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1364.673280" y="394.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_3</text>
+<line x1="1357.966300" y1="410.000000" x2="1362.677340" y2="410.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1367.677340" y="414.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_1</text>
+<line x1="1357.966300" y1="430.000000" x2="1361.096699" y2="430.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1366.096699" y="434.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_5</text>
+<line x1="1357.966300" y1="410.000000" x2="1357.966300" y2="430.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.966300" cy="420.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1357.963492" y1="420.000000" x2="1357.966300" y2="420.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1357.963492" y1="450.000000" x2="1359.524481" y2="450.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1364.524481" y="454.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_4</text>
+<line x1="1357.963492" y1="420.000000" x2="1357.963492" y2="450.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.963492" cy="435.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1357.960685" y1="435.000000" x2="1357.963492" y2="435.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1364.199023" y1="470.000000" x2="1365.743166" y2="470.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1370.743166" y="474.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_2</text>
+<line x1="1364.199023" y1="490.000000" x2="1364.201830" y2="490.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1369.201830" y="494.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_6</text>
+<line x1="1364.199023" y1="470.000000" x2="1364.199023" y2="490.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1364.199023" cy="480.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1357.960685" y1="480.000000" x2="1364.199023" y2="480.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1357.960685" y1="435.000000" x2="1357.960685" y2="480.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.960685" cy="457.500000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1356.478307" y1="457.500000" x2="1357.960685" y2="457.500000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1356.478307" y1="390.000000" x2="1356.478307" y2="457.500000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1356.478307" cy="423.750000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1333.408810" y1="423.750000" x2="1356.478307" y2="423.750000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1352.011523" y1="510.000000" x2="1353.493900" y2="510.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1358.493900" y="514.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_12</text>
+<line x1="1352.011523" y1="530.000000" x2="1355.060503" y2="530.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1360.060503" y="534.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_9</text>
+<line x1="1352.011523" y1="510.000000" x2="1352.011523" y2="530.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1352.011523" cy="520.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1344.299230" y1="520.000000" x2="1352.011523" y2="520.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1344.299230" y1="550.000000" x2="1345.818105" y2="550.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1350.818105" y="554.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_10</text>
+<line x1="1344.299230" y1="520.000000" x2="1344.299230" y2="550.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1344.299230" cy="535.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1343.187447" y1="535.000000" x2="1344.299230" y2="535.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1349.751459" y1="570.000000" x2="1351.281564" y2="570.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1356.281564" y="574.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_11</text>
+<line x1="1349.751459" y1="590.000000" x2="1349.754266" y2="590.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1354.754266" y="594.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_8</text>
+<line x1="1349.751459" y1="570.000000" x2="1349.751459" y2="590.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1349.751459" cy="580.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1348.246621" y1="580.000000" x2="1349.751459" y2="580.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1348.246621" y1="610.000000" x2="1356.059985" y2="610.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1361.059985" y="614.000000" font-size="12" font-family="Arial;">Gallotia_caesaris_7</text>
+<line x1="1348.246621" y1="580.000000" x2="1348.246621" y2="610.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1348.246621" cy="595.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1343.187447" y1="595.000000" x2="1348.246621" y2="595.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1343.187447" y1="535.000000" x2="1343.187447" y2="595.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1343.187447" cy="565.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1333.408810" y1="565.000000" x2="1343.187447" y2="565.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1333.408810" y1="423.750000" x2="1333.408810" y2="565.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1333.408810" cy="494.375000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1250.684853" y1="494.375000" x2="1333.408810" y2="494.375000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1356.088060" y1="630.000000" x2="1356.090868" y2="630.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1361.090868" y="634.000000" font-size="12" font-family="Arial;">Gallotia_galloti_3</text>
+<line x1="1357.609743" y1="650.000000" x2="1360.692414" y2="650.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1365.692414" y="654.000000" font-size="12" font-family="Arial;">Gallotia_galloti_1</text>
+<line x1="1357.615358" y1="670.000000" x2="1359.134234" y2="670.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1364.134234" y="674.000000" font-size="12" font-family="Arial;">Gallotia_galloti_9</text>
+<line x1="1357.615358" y1="690.000000" x2="1359.142656" y2="690.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1364.142656" y="694.000000" font-size="12" font-family="Arial;">Gallotia_galloti_4</text>
+<line x1="1357.615358" y1="670.000000" x2="1357.615358" y2="690.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.615358" cy="680.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1357.612551" y1="680.000000" x2="1357.615358" y2="680.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1357.615358" y1="710.000000" x2="1357.618166" y2="710.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1362.618166" y="714.000000" font-size="12" font-family="Arial;">Gallotia_galloti_7</text>
+<line x1="1357.618166" y1="730.000000" x2="1359.148271" y2="730.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1364.148271" y="734.000000" font-size="12" font-family="Arial;">Gallotia_galloti_8</text>
+<line x1="1357.618166" y1="750.000000" x2="1359.145464" y2="750.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1364.145464" y="754.000000" font-size="12" font-family="Arial;">Gallotia_galloti_6</text>
+<line x1="1357.618166" y1="730.000000" x2="1357.618166" y2="750.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.618166" cy="740.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1357.615358" y1="740.000000" x2="1357.618166" y2="740.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1357.615358" y1="710.000000" x2="1357.615358" y2="740.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.615358" cy="725.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1357.612551" y1="725.000000" x2="1357.615358" y2="725.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1357.612551" y1="680.000000" x2="1357.612551" y2="725.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.612551" cy="702.500000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1357.609743" y1="702.500000" x2="1357.612551" y2="702.500000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1357.609743" y1="650.000000" x2="1357.609743" y2="702.500000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.609743" cy="676.250000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1356.088060" y1="676.250000" x2="1357.609743" y2="676.250000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1356.088060" y1="630.000000" x2="1356.088060" y2="676.250000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1356.088060" cy="653.125000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1356.085253" y1="653.125000" x2="1356.088060" y2="653.125000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1357.606936" y1="770.000000" x2="1359.145464" y2="770.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1364.145464" y="774.000000" font-size="12" font-family="Arial;">Gallotia_galloti_2</text>
+<line x1="1357.606936" y1="790.000000" x2="1357.609743" y2="790.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1362.609743" y="794.000000" font-size="12" font-family="Arial;">Gallotia_galloti_5</text>
+<line x1="1357.606936" y1="770.000000" x2="1357.606936" y2="790.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1357.606936" cy="780.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1356.085253" y1="780.000000" x2="1357.606936" y2="780.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1356.085253" y1="653.125000" x2="1356.085253" y2="780.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1356.085253" cy="716.562500" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1346.539641" y1="716.562500" x2="1356.085253" y2="716.562500" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1353.780268" y1="810.000000" x2="1355.257031" y2="810.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1360.257031" y="814.000000" font-size="12" font-family="Arial;">Gallotia_galloti_13</text>
+<line x1="1353.780268" y1="830.000000" x2="1355.259838" y2="830.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1360.259838" y="834.000000" font-size="12" font-family="Arial;">Gallotia_galloti_12</text>
+<line x1="1353.780268" y1="810.000000" x2="1353.780268" y2="830.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1353.780268" cy="820.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1350.759363" y1="820.000000" x2="1353.780268" y2="820.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1356.871362" y1="850.000000" x2="1359.945611" y2="850.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1364.945611" y="854.000000" font-size="12" font-family="Arial;">Gallotia_galloti_11</text>
+<line x1="1356.871362" y1="870.000000" x2="1358.297589" y2="870.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1363.297589" y="874.000000" font-size="12" font-family="Arial;">Gallotia_galloti_10</text>
+<line x1="1356.871362" y1="850.000000" x2="1356.871362" y2="870.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1356.871362" cy="860.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1350.759363" y1="860.000000" x2="1356.871362" y2="860.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1350.759363" y1="820.000000" x2="1350.759363" y2="860.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1350.759363" cy="840.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1346.539641" y1="840.000000" x2="1350.759363" y2="840.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1346.539641" y1="716.562500" x2="1346.539641" y2="840.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1346.539641" cy="778.281250" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1327.844279" y1="778.281250" x2="1346.539641" y2="778.281250" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1345.439088" y1="890.000000" x2="1346.935503" y2="890.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1351.935503" y="894.000000" font-size="12" font-family="Arial;">Gallotia_galloti_16</text>
+<line x1="1345.439088" y1="910.000000" x2="1346.935503" y2="910.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1351.935503" y="914.000000" font-size="12" font-family="Arial;">Gallotia_galloti_19</text>
+<line x1="1345.439088" y1="890.000000" x2="1345.439088" y2="910.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1345.439088" cy="900.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1345.436281" y1="900.000000" x2="1345.439088" y2="900.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1345.436281" y1="930.000000" x2="1345.439088" y2="930.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1350.439088" y="934.000000" font-size="12" font-family="Arial;">Gallotia_galloti_14</text>
+<line x1="1345.436281" y1="900.000000" x2="1345.436281" y2="930.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1345.436281" cy="915.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1345.433473" y1="915.000000" x2="1345.436281" y2="915.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1346.946733" y1="950.000000" x2="1348.457186" y2="950.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1353.457186" y="954.000000" font-size="12" font-family="Arial;">Gallotia_galloti_15</text>
+<line x1="1346.946733" y1="970.000000" x2="1348.457186" y2="970.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1353.457186" y="974.000000" font-size="12" font-family="Arial;">Gallotia_galloti_18</text>
+<line x1="1346.946733" y1="950.000000" x2="1346.946733" y2="970.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1346.946733" cy="960.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1345.433473" y1="960.000000" x2="1346.946733" y2="960.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1345.433473" y1="915.000000" x2="1345.433473" y2="960.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1345.433473" cy="937.500000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1345.430665" y1="937.500000" x2="1345.433473" y2="937.500000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1345.430665" y1="990.000000" x2="1346.932696" y2="990.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1351.932696" y="994.000000" font-size="12" font-family="Arial;">Gallotia_galloti_17</text>
+<line x1="1345.430665" y1="937.500000" x2="1345.430665" y2="990.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1345.430665" cy="963.750000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1327.844279" y1="963.750000" x2="1345.430665" y2="963.750000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1327.844279" y1="778.281250" x2="1327.844279" y2="963.750000" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="1327.844279" cy="871.015625" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="1250.684853" y1="871.015625" x2="1327.844279" y2="871.015625" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1250.684853" y1="494.375000" x2="1250.684853" y2="871.015625" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="1250.684853" cy="682.695312" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="1182.891356" y1="682.695312" x2="1250.684853" y2="682.695312" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1355.431098" y1="1010.000000" x2="1357.236341" y2="1010.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1362.236341" y="1014.000000" font-size="12" font-family="Arial;">Gallotia_simonyi_2</text>
+<line x1="1355.431098" y1="1030.000000" x2="1357.006124" y2="1030.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1362.006124" y="1034.000000" font-size="12" font-family="Arial;">Gallotia_simonyi_1</text>
+<line x1="1355.431098" y1="1010.000000" x2="1355.431098" y2="1030.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1355.431098" cy="1020.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1338.032816" y1="1020.000000" x2="1355.431098" y2="1020.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1352.957661" y1="1050.000000" x2="1356.396889" y2="1050.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1361.396889" y="1054.000000" font-size="12" font-family="Arial;">Gallotia_gomerana_1</text>
+<line x1="1352.957661" y1="1070.000000" x2="1352.960469" y2="1070.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1357.960469" y="1074.000000" font-size="12" font-family="Arial;">Gallotia_gomerana_2</text>
+<line x1="1352.957661" y1="1050.000000" x2="1352.957661" y2="1070.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1352.957661" cy="1060.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1338.032816" y1="1060.000000" x2="1352.957661" y2="1060.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1338.032816" y1="1020.000000" x2="1338.032816" y2="1060.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1338.032816" cy="1040.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1255.311667" y1="1040.000000" x2="1338.032816" y2="1040.000000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1318.298668" y1="1090.000000" x2="1321.103393" y2="1090.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1326.103393" y="1094.000000" font-size="12" font-family="Arial;">Gallotia_intermedia_2</text>
+<line x1="1318.298668" y1="1110.000000" x2="1321.965306" y2="1110.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1326.965306" y="1114.000000" font-size="12" font-family="Arial;">Gallotia_intermedia_1</text>
+<line x1="1318.298668" y1="1090.000000" x2="1318.298668" y2="1110.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1318.298668" cy="1100.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1255.311667" y1="1100.000000" x2="1318.298668" y2="1100.000000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1255.311667" y1="1040.000000" x2="1255.311667" y2="1100.000000" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="1255.311667" cy="1070.000000" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="1182.891356" y1="1070.000000" x2="1255.311667" y2="1070.000000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1182.891356" y1="682.695312" x2="1182.891356" y2="1070.000000" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="1182.891356" cy="876.347656" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="1115.367382" y1="876.347656" x2="1182.891356" y2="876.347656" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1466.471831" y1="1130.000000" x2="1466.474639" y2="1130.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1471.474639" y="1134.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_7</text>
+<line x1="1466.471831" y1="1150.000000" x2="1468.156351" y2="1150.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1473.156351" y="1154.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_8</text>
+<line x1="1466.471831" y1="1130.000000" x2="1466.471831" y2="1150.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1466.471831" cy="1140.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1460.253146" y1="1140.000000" x2="1466.471831" y2="1140.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1460.253146" y1="1170.000000" x2="1466.053509" y2="1170.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1471.053509" y="1174.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_9</text>
+<line x1="1460.253146" y1="1140.000000" x2="1460.253146" y2="1170.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1460.253146" cy="1155.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1433.626504" y1="1155.000000" x2="1460.253146" y2="1155.000000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1502.658123" y1="1190.000000" x2="1502.660930" y2="1190.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1507.660930" y="1194.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_2</text>
+<line x1="1504.188228" y1="1210.000000" x2="1504.191036" y2="1210.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1509.191036" y="1214.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_1</text>
+<line x1="1505.721141" y1="1230.000000" x2="1510.314265" y2="1230.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1515.314265" y="1234.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_3</text>
+<line x1="1507.245632" y1="1250.000000" x2="1508.778544" y2="1250.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1513.778544" y="1254.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_4</text>
+<line x1="1507.245632" y1="1270.000000" x2="1510.311457" y2="1270.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1515.311457" y="1274.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_6</text>
+<line x1="1507.245632" y1="1250.000000" x2="1507.245632" y2="1270.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1507.245632" cy="1260.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1505.721141" y1="1260.000000" x2="1507.245632" y2="1260.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1505.721141" y1="1230.000000" x2="1505.721141" y2="1260.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1505.721141" cy="1245.000000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1505.718334" y1="1245.000000" x2="1505.721141" y2="1245.000000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1505.718334" y1="1290.000000" x2="1508.789775" y2="1290.000000" stroke="#ff0000" stroke-width="3.000000" />
+<text x="1513.789775" y="1294.000000" font-size="12" font-family="Arial;">Gallotia_atlantica_5</text>
+<line x1="1505.718334" y1="1245.000000" x2="1505.718334" y2="1290.000000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1505.718334" cy="1267.500000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1504.188228" y1="1267.500000" x2="1505.718334" y2="1267.500000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1504.188228" y1="1210.000000" x2="1504.188228" y2="1267.500000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1504.188228" cy="1238.750000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1502.658123" y1="1238.750000" x2="1504.188228" y2="1238.750000" stroke="#ff0000" stroke-width="3.000000" />
+
+<line x1="1502.658123" y1="1190.000000" x2="1502.658123" y2="1238.750000" stroke="#ff0000" stroke-width="3.000000" />
+<circle cx="1502.658123" cy="1214.375000" r="0.000000" fill="#ff0000" stroke="#ff0000" />
+<line x1="1433.626504" y1="1214.375000" x2="1502.658123" y2="1214.375000" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1433.626504" y1="1155.000000" x2="1433.626504" y2="1214.375000" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="1433.626504" cy="1184.687500" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="1115.367382" y1="1184.687500" x2="1433.626504" y2="1184.687500" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1115.367382" y1="876.347656" x2="1115.367382" y2="1184.687500" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="1115.367382" cy="1030.517578" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="1041.961627" y1="1030.517578" x2="1115.367382" y2="1030.517578" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="1041.961627" y1="302.500000" x2="1041.961627" y2="1030.517578" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="1041.961627" cy="666.508789" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="879.256673" y1="666.508789" x2="1041.961627" y2="666.508789" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="879.256673" y1="72.812500" x2="879.256673" y2="666.508789" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="879.256673" cy="369.660645" r="0.000000" fill="#31a354" stroke="#31a354" />
+<line x1="20.000000" y1="369.660645" x2="879.256673" y2="369.660645" stroke="#31a354" stroke-width="3.000000" />
+
+<line x1="20.000000" y1="1310.000000" x2="879.256673" y2="1310.000000" stroke="#31a354" stroke-width="3.000000" />
+<text x="884.256673" y="1314.000000" font-size="12" font-family="Arial;">Lacerta_lepida</text>
+<line x1="20.000000" y1="369.660645" x2="20.000000" y2="1310.000000" stroke="#31a354" stroke-width="3.000000" />
+<circle cx="20.000000" cy="839.830322" r="0.000000" fill="#31a354" stroke="#31a354" />
+</svg>
