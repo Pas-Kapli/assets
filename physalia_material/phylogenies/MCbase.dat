@@ -1,0 +1,8 @@
+0                * 0: paml format (mc.paml); 1:paup format (mc.nex)
+-1               * random number seed (odd number)
+4 100 100   * <# seqs> <# nucleotide sites> <# replicates>
+-1               * <tree length, use -1 if tree has absolute branch lengths>
+((A:0.1,B:0.5):0.0075,(C:0.1,D:0.5):0.0075);
+0                * model: 0:JC69, 1:K80, 2:F81, 3:F84, 4:HKY85, 5:T92, 6:TN93, 7:REV
+1                * kappa or rate parameters in model
+0 0              * <alpha> <#categories for discrete gamma>
